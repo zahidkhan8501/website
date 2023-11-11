@@ -500,6 +500,17 @@
     font-size: var(--font-size-16xl);
     font-family: var(--font-gidugu);
   }
+.wolf {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 2000px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-5xl);
+    color: var(--color-black);
+    font-family: var(--font-inter);
+  }
   .shopping {
     position: relative;
     background-color: var(--color-white);
